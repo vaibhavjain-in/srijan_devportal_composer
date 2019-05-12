@@ -17,7 +17,7 @@
     "composer/installers": "^1.2",
     "cweagans/composer-patches": "^1.6.5",
     "drupal-composer/drupal-scaffold": "^2.5",
-    "vaibhavjain-in/srijan_devportal": "master",
+    "vaibhavjain-in/srijan_devportal": "dev-8.x",
     "php": "^7.1",
     "drush/drush": "~8"
   },
